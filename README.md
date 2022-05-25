@@ -9,10 +9,10 @@ Self-taught web, game and software developer
 
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=Sin-Gala"></a><br/>
-  <a href='https://www.linkedin.com/in/galahane-rouille-poirel-641196183/'>
+  <a href='https://www.linkedin.com/in/galahane-rouille-poirel-641196183/' target='_blank'>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href='https://twitter.com/sin_gala'>
+<a href='https://twitter.com/sin_gala' target='_blank'>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
   <br/>
