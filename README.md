@@ -39,7 +39,7 @@ Self-taught web, game and software developer
 | C#                        | Python    |    | Fabric                                 | NeutralinoJS  |
 | Julia                     | Kotlin    |    | OpenTK, LWJGL                          | Tauri         |
 | PHP                       | Assembly  |    | Github                                 | React         |
-| SQL                       | Bash      |    |                                        | ANTLR4        |
+| SQL                       | Bash      |    | GB Studio                              | ANTLR4        |
 | Java                      |           |    |                                        | LLVM          |
 
 ### Languages I speak
