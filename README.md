@@ -17,8 +17,10 @@ Self-taught web, game and software developer
 </a>
   <br/>
   <br/>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinGala&theme=dracula" width="350">
+
+<!--<img src="https://github-readme-stats.vercel.app/api/?username=Sin-Gala&count_private=true&theme=tokyonight&showicons=true" />-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-Gala&theme=tokyonight" />
+
 
 <br />
 <br/>
