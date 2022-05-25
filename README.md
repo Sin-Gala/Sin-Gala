@@ -52,7 +52,7 @@ Self-taught web, game and software developer
 </details>
 
 <details>
-  <summary>📌 My Organisations</summary>
+  <summary>📌 My Organizations</summary>
 <ul>
   <li><a href="https://github.com/TheanaProductions">Theana Productions</a></li>
 </ul>
