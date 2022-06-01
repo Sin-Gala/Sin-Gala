@@ -35,7 +35,7 @@ Self-taught web, game and software developer
 | :------------------------:|:---------:|----| :-------------------------------------:|:-------------:|
 | HTML                      | C         |    | Unity                                  | AndroidStudio |
 | CSS                       | C++       |    | WampServer                             | HxD           |
-| Javascript                | Rust      |    | PHPMyAdmin                             | Postman       |
+| Javascript / JQuery       | Rust      |    | PHPMyAdmin                             | Postman       |
 | C#                        | Python    |    | Fabric                                 | NeutralinoJS  |
 | Julia                     | Kotlin    |    | OpenTK, LWJGL                          | Tauri         |
 | PHP                       | Assembly  |    | Github                                 | React         |
