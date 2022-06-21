@@ -54,7 +54,7 @@ Self-taught game developer
 | C / C++                   | Postman                                |
 | Rust                      | Godot                                  |
 | HLSL                      | Unreal Engine                          |
-| Regex                     |                                        |
+| Regex                     | OpenGL                                 |
 </details>
 
 <details>
