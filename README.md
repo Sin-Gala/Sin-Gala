@@ -3,7 +3,7 @@ Hi there 👋 I'm SinGala! 👨‍💻
 </h1>
 
 <p align='center'>
-Self-taught web, game and software developer
+Self-taught game developer
   <br/>
 </p>
 
@@ -30,17 +30,15 @@ Self-taught web, game and software developer
 <details>
   <summary>📋 My Abilities</summary>
   
-### My coding abilities
-|  Working with (Languages) | Learning  |    |  Working with (Softwares & Frameworks) | Learning      |
-| :------------------------:|:---------:|----| :-------------------------------------:|:-------------:|
-| HTML                      | C         |    | Unity                                  | AndroidStudio |
-| CSS                       | C++       |    | WampServer                             | HxD           |
-| Javascript / JQuery       | Rust      |    | PHPMyAdmin                             | Postman       |
-| C#                        | Python    |    | Fabric                                 | NeutralinoJS  |
-| Julia                     | Kotlin    |    | OpenTK, LWJGL                          | Tauri         |
-| PHP                       | Assembly  |    | Github                                 | React         |
-| SQL                       | Bash      |    | GB Studio                              | LLVM          |
-| Java                      | ANTLR4    |    |                                        |               |
+### Languages, Softwares and Frameworks I use regularly
+| Languages                 | Softwares & Frameworks 
+| :------------------------:| :-------------------------------------:|
+| HTML / CSS                | Unity                                  |
+| C#                        | GB Studio                              |
+| Javascript                | Fabric                                 |
+| Julia                     |                                        |
+| Java                      |                                        |
+| ANTLR4                    |                                        |
 
 ### Languages I speak
 <ul>
@@ -49,6 +47,14 @@ Self-taught web, game and software developer
   <li>Portuguese (Brazil): Basics</li>
   <li>Spanish: Basics</li>
 </ul>
+  
+### What I wish to learn
+| Languages                 | Softwares & Frameworks 
+| :------------------------:| :-------------------------------------:|
+| C / C++                   | Postman                                |
+| Rust                      | Godot                                  |
+| HLSL                      | Unreal Engine                          |
+| Regex                     |                                        |
 </details>
 
 <details>
