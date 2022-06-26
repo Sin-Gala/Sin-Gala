@@ -36,7 +36,7 @@ Self-taught game developer
 | HTML / CSS                | Unity                                  |
 | C#                        | GB Studio                              |
 | Javascript                | Fabric                                 |
-| Julia                     |                                        |
+| Julia                     | Live2D Cubism                          |
 | Java                      |                                        |
 | ANTLR4                    |                                        |
 
