@@ -46,6 +46,7 @@ Self-taught game developer
   <li>English: Fluent</li>
   <li>Portuguese (Brazil): Basics</li>
   <li>Spanish: Basics</li>
+  <li>Japanese: Learning</li>
 </ul>
   
 ### What I wish to learn
