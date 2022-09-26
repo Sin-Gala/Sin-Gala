@@ -15,6 +15,8 @@ Self-taught game developer
 <a href='https://twitter.com/sin_gala' target='_blank'>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<br/>
+<a href='https://sin-gala.github.io/SinGala_Links/' target='_blank'>My Projects</a>
   <br/>
   <br/>
 
