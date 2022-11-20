@@ -39,8 +39,8 @@ Self-taught game developer
 | C#                        | GB Studio                              |
 | Javascript                | Fabric                                 |
 | Julia                     | Live2D Cubism                          |
-| Java                      |                                        |
-| ANTLR4                    |                                        |
+| Java                      | Playdate SDK                           |
+| Lua                       |                                        |
 
 ### Languages I speak
 <ul>
