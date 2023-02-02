@@ -3,7 +3,7 @@ Hi there 👋 I'm SinGala! 👨‍💻
 </h1>
 
 <p align='center'>
-Self-taught game developer
+Game developer
   <br/>
 </p>
 
