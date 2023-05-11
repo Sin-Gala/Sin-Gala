@@ -10,9 +10,6 @@ Game developer
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=Sin-Gala"></a><br/>
 </a>
-<br/>
-<a href='https://sin-gala.github.io/SinGala_Links/' target='_blank'>My Projects</a>
-  <br/>
   <br/>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/?username=Sin-Gala&count_private=true&theme=tokyonight&showicons=true" />-->
@@ -35,7 +32,8 @@ Game developer
 | Javascript                | Fabric                                 |
 | Julia                     | Live2D Cubism                          |
 | Java                      | Playdate SDK                           |
-| Lua                       |                                        |
+| Lua                       | MySQL / WampServer / PhpMyAdmin        |
+| SQL                       |                                        |
 
 ### Languages I speak
 <ul>
