@@ -33,7 +33,7 @@ Game developer
 | Julia                     | Live2D Cubism                          |
 | Java                      | Playdate SDK                           |
 | Lua                       | MySQL / WampServer / PhpMyAdmin        |
-| SQL                       |                                        |
+| SQL                       | LootLockerSDK                          |
 
 ### Languages I speak
 <ul>
@@ -41,7 +41,6 @@ Game developer
   <li>English: Fluent</li>
   <li>Portuguese (Brazil): Basics</li>
   <li>Spanish: Basics</li>
-  <li>Japanese: Learning</li>
 </ul>
   
 ### What I wish to learn
