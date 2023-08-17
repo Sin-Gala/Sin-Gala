@@ -13,7 +13,7 @@ Game developer
   <br/>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/?username=Sin-Gala&count_private=true&theme=tokyonight&showicons=true" />-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-Gala&theme=tokyonight" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-Gala)](https://github.com/Sin-Gala/github-readme-stats)
 
 
 <br />
