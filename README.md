@@ -34,7 +34,7 @@ Game developer
 | Java                      | Playdate SDK                           |
 | Lua                       | MySQL / WampServer / PhpMyAdmin        |
 | SQL                       | LootLockerSDK                          |
-|                           | GameMaker                              |
+| GML                       | GameMaker                              |
 
 ### Languages I speak
 <ul>
